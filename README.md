@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about Express.
 - 💬 Ask me about JavaScript, HTML/CSS or Music/Movies.
-- 📫 How to reach me: Email or through Linkedin with the links below!
+- 📫 How to reach me: through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
 
@@ -29,8 +29,7 @@
 ### Contact Info:
 <p> 
 <a href="https://www.linkedin.com/in/antonio-davila-olivares-843856212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
-<a href="ajd57@nau.edu?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p> 
+
 
 <!--
 **D3vila/D3vila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
