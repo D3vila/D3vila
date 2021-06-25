@@ -1,5 +1,5 @@
 
-## Hi there, I'm Antonio! 👋🏾       
+## Hi there, I'm Antonio!🤘      
 
 - 🌱 I’m currently learning about Express.
 - 💬 Ask me about JavaScript, HTML/CSS or Music/Movies.
