@@ -22,9 +22,11 @@
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vila&count_private=true&theme=dark)](https://github.com/sunnymallick/github-readme-stats)
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vila&count_private=true&theme=dark)](https://github.com/D3vila)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3vila&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3vila&theme=dark)](https://github.com/D3vila)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=D3vila&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/D3vila)
 
 ### Contact Info:
 <p> 
@@ -44,4 +46,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="https://github.com/AnthonyCost">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnthonyCost&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyCost&theme=radical&layout=compact&hide_border=true&count_private=true" />
+</a>
 -->
