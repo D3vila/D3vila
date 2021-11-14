@@ -13,9 +13,9 @@
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white" /></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-REACT-61DAFB?logo=React&logoColor=333333" /></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-REDUX-764ABC?logo=Redux" /></a>
-<a href="https://sequelize.org/" class="icon"><img src="https://img.shields.io/badge/-Sequelize-039BE5?logo=Sequelize&logoColor=white" /></a>
+<a href="https://sequelize.org/" class="icon"><img src="https://img.shields.io/badge/-SEQUELIZE-039BE5?logo=Sequelize&logoColor=white" /></a>
 <a href="https://pugjs.org/api/getting-started.html" class="icon"><img src="https://img.shields.io/badge/-PUG-a86454?logo=PUG&logoColor=white" /></a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-FLASK-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
