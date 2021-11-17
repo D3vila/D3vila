@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Antonio!🤘      
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning AWS S3.
 - 💬 Ask me about JavaScript, HTML/CSS or Music/Movies.
 - 📫 How to reach me: through Linkedin with the links below!
 
