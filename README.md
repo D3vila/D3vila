@@ -1,6 +1,5 @@
 
-## Hi there, I'm Antonio!🤘      
-Visit my portfolio <a href='http://www.antoniodavila-olivares.com/' target="_blank">site</a>!
+## Hi there, I'm <a href='http://www.antoniodavila-olivares.com/' target="_blank">Antonio Davila-Olivares</a>!🤘      
 
 - 🌱 I’m currently learning AWS S3.
 - 💬 Ask me about JavaScript, HTML/CSS or Music/Movies.
