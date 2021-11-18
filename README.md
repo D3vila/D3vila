@@ -44,6 +44,7 @@
 <p> 
 <a href="https://www.linkedin.com/in/antonio-davila-olivares-843856212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
 
+<a href="mailto:ajd57@nau.edu?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 <!--
 **D3vila/D3vila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,9 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<a href="https://github.com/AnthonyCost">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnthonyCost&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyCost&theme=radical&layout=compact&hide_border=true&count_private=true" />
-</a>
 -->
