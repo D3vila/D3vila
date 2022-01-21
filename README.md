@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Haskell.
+- 🌱 I’m currently learning AWS S3.
 - 💬 Ask me about JavaScript, HTML/CSS or Music/Movies.
 - 📫 How to reach me: through Linkedin with the links below!
 
