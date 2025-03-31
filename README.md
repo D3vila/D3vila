@@ -33,13 +33,6 @@
 <a href="https://code.visualstudio.com/" class="icon"><img src="https://img.shields.io/badge/-VSCODE-gray?logo=vscode&logoColor=ffffff" /></a>
 
 
-
-
-
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vila&count_private=true&theme=dark)](https://github.com/D3vila)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3vila&theme=dark)](https://github.com/D3vila)
-
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=D3vila&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/D3vila)
 
 ### Contact Info:
